@@ -1,0 +1,33 @@
+ $address = "167.99.246.127"; //Server IP (If same server use localhost)
+
+    $serverPort = 22; //SSH port (Default 22)
+    
+    $user = "root"; //User for the server
+    
+    $password = "corleapi13RE"; //Password for the server
+
+    $address1 = "138.68.97.214"; //Server IP (If same server use localhost)
+
+    $serverPort1 = 22; //SSH port (Default 22)
+    
+    $user1 = "root"; //User for the server
+    
+    $password1 = "corleapi13RE"; //Password for the server
+
+    $address2 = "46.101.151.95"; //Server IP (If same server use localhost)
+
+    $serverPort2 = 22; //SSH port (Default 22)
+    
+    $user2 = "root"; //User for the server
+    
+    $password2 = "corleapi13RE"; //Password for the server
+
+    $address3 = "41.216.182.227"; //Server IP (If same server use localhost)
+
+    $serverPort3 = 22; //SSH port (Default 22)
+    
+    $user3 = "root"; //User for the server
+
+
+
+webhook for api logs:https://discord.com/api/webhooks/1008879372511498340/ryOdlztJZX5JE3qa_zM8Wy2au24agjT8eACo4GFddhHCpVsnRu6CAqwvlldALz8pnhPj
